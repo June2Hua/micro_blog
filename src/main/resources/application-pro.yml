@@ -1,0 +1,7 @@
+#设置日志文件
+logging:
+  level:
+    root: warn
+    com.junehua: info
+  file:
+    path: log/blog-pro.log

@@ -1,0 +1,7 @@
+#设置日志文件
+logging:
+  level:
+    root: info
+    com.junehua: debug
+  file:
+    path: log/blog-dev.log

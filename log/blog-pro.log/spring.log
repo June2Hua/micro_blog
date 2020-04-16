@@ -1,0 +1,238 @@
+2020-04-14 12:28:33.946  INFO 3368 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 3368 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 12:28:33.952  INFO 3368 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 12:28:34.804  WARN 3368 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 12:28:36.264  INFO 3368 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 3.171 seconds (JVM running for 4.64)
+2020-04-14 16:59:11.910  INFO 2960 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 2960 (started by asus in D:\IdeaProject\blog)
+2020-04-14 16:59:11.913  INFO 2960 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 16:59:12.998  WARN 2960 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 16:59:15.194  INFO 2960 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 4.198 seconds (JVM running for 6.534)
+2020-04-14 16:59:33.574  INFO 9840 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 9840 (started by asus in D:\IdeaProject\blog)
+2020-04-14 16:59:33.575  INFO 9840 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 16:59:34.480  WARN 9840 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 16:59:36.407  INFO 9840 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.507 seconds (JVM running for 5.237)
+2020-04-14 17:39:20.716  INFO 5488 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 5488 (started by asus in D:\IdeaProject\blog)
+2020-04-14 17:39:20.717  INFO 5488 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 17:39:21.604  WARN 5488 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 17:39:23.492  INFO 5488 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.395 seconds (JVM running for 5.129)
+2020-04-14 17:44:04.397  INFO 8852 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 8852 (started by asus in D:\IdeaProject\blog)
+2020-04-14 17:44:04.399  INFO 8852 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 17:44:05.511  WARN 8852 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 17:44:07.476  INFO 8852 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.738 seconds (JVM running for 5.477)
+2020-04-14 18:37:59.510  INFO 13632 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 13632 (started by asus in D:\IdeaProject\blog)
+2020-04-14 18:37:59.512  INFO 13632 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 18:38:00.455  WARN 13632 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 18:38:02.492  INFO 13632 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.626 seconds (JVM running for 5.356)
+2020-04-14 18:41:47.539  INFO 10384 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 10384 (started by asus in D:\IdeaProject\blog)
+2020-04-14 18:41:47.541  INFO 10384 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 18:41:48.645  WARN 10384 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 18:41:50.753  INFO 10384 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.98 seconds (JVM running for 6.024)
+2020-04-14 18:42:40.122  INFO 12712 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 12712 (started by asus in D:\IdeaProject\blog)
+2020-04-14 18:42:40.123  INFO 12712 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 18:42:41.026  WARN 12712 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 18:42:43.049  INFO 12712 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.59 seconds (JVM running for 5.305)
+2020-04-14 18:44:47.901  INFO 76 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 76 (started by asus in D:\IdeaProject\blog)
+2020-04-14 18:44:47.903  INFO 76 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 18:44:48.810  WARN 76 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 18:44:50.733  INFO 76 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.491 seconds (JVM running for 5.148)
+2020-04-14 18:47:49.401  INFO 2160 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 2160 (started by asus in D:\IdeaProject\blog)
+2020-04-14 18:47:49.403  INFO 2160 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 18:47:50.749  WARN 2160 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 18:47:53.208  INFO 2160 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 4.55 seconds (JVM running for 6.419)
+2020-04-14 20:48:36.683  INFO 17468 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 17468 (started by asus in D:\IdeaProject\blog)
+2020-04-14 20:48:36.685  INFO 17468 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 20:48:37.638  WARN 17468 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 20:48:39.755  INFO 17468 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.836 seconds (JVM running for 5.836)
+2020-04-14 21:07:37.724  INFO 4304 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 4304 (started by asus in D:\IdeaProject\blog)
+2020-04-14 21:07:37.725  INFO 4304 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 21:07:38.710  WARN 4304 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 21:07:40.562  INFO 4304 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.456 seconds (JVM running for 5.327)
+2020-04-14 21:08:37.534  INFO 4060 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 4060 (started by asus in D:\IdeaProject\blog)
+2020-04-14 21:08:37.536  INFO 4060 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 21:08:38.442  WARN 4060 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 21:08:40.302  INFO 4060 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 3.395 seconds (JVM running for 5.427)
+2020-04-14 21:57:34.188  INFO 2352 --- [main] com.junehua.blog.BlogApplicationTests    : Starting BlogApplicationTests on DESKTOP-3839O5T with PID 2352 (started by asus in D:\IdeaProject\blog)
+2020-04-14 21:57:34.261  INFO 2352 --- [main] com.junehua.blog.BlogApplicationTests    : The following profiles are active: pro
+2020-04-14 21:57:36.890  WARN 2352 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 21:57:40.987  INFO 2352 --- [main] com.junehua.blog.BlogApplicationTests    : Started BlogApplicationTests in 8.744 seconds (JVM running for 12.856)
+2020-04-14 21:58:00.510  INFO 14652 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 14652 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 21:58:00.515  INFO 14652 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 21:58:02.121  WARN 14652 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 21:58:04.781  INFO 14652 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 5.602 seconds (JVM running for 7.862)
+2020-04-14 21:59:34.322  INFO 15972 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 15972 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 21:59:34.326  INFO 15972 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 21:59:35.538  WARN 15972 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 21:59:37.622  INFO 15972 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 4.417 seconds (JVM running for 6.44)
+2020-04-14 22:00:32.384  INFO 6616 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 6616 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 22:00:32.392  INFO 6616 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 22:00:33.549  WARN 6616 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 22:00:35.403  INFO 6616 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 4.085 seconds (JVM running for 6.175)
+2020-04-14 22:03:56.508  INFO 13688 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 13688 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 22:03:56.512  INFO 13688 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 22:03:57.393  WARN 13688 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 22:03:58.816  INFO 13688 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 3.073 seconds (JVM running for 4.43)
+2020-04-14 22:10:52.552  INFO 10628 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 10628 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 22:10:52.561  INFO 10628 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 22:10:54.138  WARN 10628 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 22:10:56.663  INFO 10628 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 5.451 seconds (JVM running for 7.004)
+2020-04-14 22:31:34.984  INFO 18332 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 18332 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 22:31:34.995  INFO 18332 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 22:31:36.201  WARN 18332 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 22:31:37.707  INFO 18332 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 3.658 seconds (JVM running for 5.233)
+2020-04-14 22:32:15.806  INFO 13420 --- [main] com.junehua.blog.BlogApplication         : Starting BlogApplication on DESKTOP-3839O5T with PID 13420 (D:\IdeaProject\blog\target\classes started by asus in D:\IdeaProject\blog)
+2020-04-14 22:32:15.810  INFO 13420 --- [main] com.junehua.blog.BlogApplication         : The following profiles are active: pro
+2020-04-14 22:32:16.728  WARN 13420 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.junehua.blog]' package. Please check your configuration.
+2020-04-14 22:32:18.300  INFO 13420 --- [main] com.junehua.blog.BlogApplication         : Started BlogApplication in 3.261 seconds (JVM running for 4.849)
+2020-04-14 22:32:30.180 ERROR 13420 --- [http-nio-8080-exec-1] c.j.b.h.ControllerExceptionHandler       : 请求地址为：http://localhost:8080/---错误为：/ by zero
+2020-04-14 22:32:38.538 ERROR 13420 --- [http-nio-8080-exec-2] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-2] Exception processing template "error/404": Error resolving template [_fragments], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "error/404" - line 3, col 7)
+
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [_fragments], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "error/404" - line 3, col 7)
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseStandalone(TemplateManager.java:250) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.FragmentExpression.resolveExecutedFragmentExpression(FragmentExpression.java:588) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.computeFragment(AbstractStandardFragmentInsertionTagProcessor.java:379) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.doProcess(AbstractStandardFragmentInsertionTagProcessor.java:110) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) [thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) [thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) [thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) [thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) [spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) [spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) [spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) [spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) [spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) [spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) [spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:175) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_65]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_65]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_65]
+
+2020-04-14 22:32:38.542 ERROR 13420 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] threw exception
+
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [_fragments], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "error/404" - line 3, col 7)
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseStandalone(TemplateManager.java:250) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.FragmentExpression.resolveExecutedFragmentExpression(FragmentExpression.java:588) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.computeFragment(AbstractStandardFragmentInsertionTagProcessor.java:379) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.doProcess(AbstractStandardFragmentInsertionTagProcessor.java:110) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:175) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_65]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_65]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_65]
+
+2020-04-14 22:32:38.548 ERROR 13420 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost]           : Exception Processing ErrorPage[errorCode=0, location=/error]
+
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateInputException: Error resolving template [_fragments], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "error/404" - line 3, col 7)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:712) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:461) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312) ~[tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:394) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:253) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:175) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1594) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_65]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_65]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.33.jar:9.0.33]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_65]
+Caused by: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [_fragments], template might not exist or might not be accessible by any of the configured Template Resolvers (template: "error/404" - line 3, col 7)
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseStandalone(TemplateManager.java:250) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.FragmentExpression.resolveExecutedFragmentExpression(FragmentExpression.java:588) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.computeFragment(AbstractStandardFragmentInsertionTagProcessor.java:379) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardFragmentInsertionTagProcessor.doProcess(AbstractStandardFragmentInsertionTagProcessor.java:110) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.5.RELEASE.jar:5.2.5.RELEASE]
+	... 25 common frames omitted
+

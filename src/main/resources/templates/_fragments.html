@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="head(title)">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title th:replace="${title}">详情页</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.4/semantic.min.css">
+    <!--文章的排版-->
+    <link rel="stylesheet" th:href="@{/css/typo.css}">
+    <!--详情页的动态效果-->
+    <link rel="stylesheet" th:href="@{/css/animate.css}">
+    <!--代码高亮-->
+    <link rel="stylesheet" th:href="@{/lib/prism/prism.css}">
+    <!--自动生成目录-->
+    <link rel="stylesheet" th:href="@{/lib/tocbot/tocbot.css}">
+    <link rel="stylesheet" th:href="@{/css/me.css}">
+
+</head>
+<body>
+<!--导航,n表示第几个选中项-->
+<nav th:fragment="menu(n)" class="ui inverted attached segment">
+    <div class="ui container">
+        <div class="ui inverted secondary menu stackable">
+            <h2 class="ui blue header item">JuneHua</h2>
+            <!--标签栏-->
+            <a href="#" class="m-item item m-mobile-hide" th:classappend="${n==1}?'active' "><i class="mini home icon"></i>首页</a>
+            <a href="#" class="m-item item m-mobile-hide" th:classappend="${n==2}?'active' "><i class="mini idea icon"></i>分类</a>
+            <a href="#" class="m-item item m-mobile-hide" th:classappend="${n==3}?'active' "><i class="mini tags icon"></i>标签</a>
+            <a href="#" class="m-item item m-mobile-hide" th:classappend="${n==4}?'active' "><i class="mini clone icon"></i>归档</a>
+            <a href="#" class="m-item item m-mobile-hide" th:classappend="${n==5}?'active' "><i class="mini info icon"></i>关于我</a>
+            <!--搜索框-->
+            <div class="right m-item item m-mobile-hide">
+                <div class="ui icon inverted  input m-margin-tb-tiny">
+                    <input type="text" placeholder="Search....">
+                    <i class="search link icon"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="#" class="ui menu toggle black icon button m-right-top m-mobile-show">
+        <i class="sidebar icon"></i>
+    </a>
+</nav>
+
+<!--底部footer-->
+<footer th:fragment="footer" class="ui inverted vertical segment m-padded-tb-massive">
+    <div class="ui center aligned container">
+        <!--使用grid布局，类似于bootstrap中的栅格系统。bootstrap每行12份，semantic每行16份-->
+        <div class="ui inverted divided stackable grid">
+            <!--三份，微信图像-->
+            <div class="three wide column">
+                <div class="ui inverted link list">
+                    <div class="item">
+                        <img src="../static/image/WeChat.jpg" th:src="@{/image/WeChat.jpg}" class="ui rounded image" alt="" style="width: 110px">
+                    </div>
+                </div>
+            </div>
+            <!--四份，博客信息-->
+            <div class="four wide column">
+                <h4 class="ui inverted header m-text-thin m-text-spaced " >博客信息</h4>
+                <div class="ui inverted link list">
+                    <a href="#" class="item m-text-thin">用户故事（User Story）</a>
+                    <a href="#" class="item m-text-thin">用户故事（User Story）</a>
+                    <a href="#" class="item m-text-thin">用户故事（User Story）</a>
+                </div>
+            </div>
+            <!--四份，作者信息-->
+            <div class="four wide column">
+                <h4 class="ui inverted header m-text-thin m-text-spaced ">联系我</h4>
+                <div class="ui inverted link list">
+                    <a href="#" class="item m-text-thin"> Q Q ：827259596</a>
+                    <a href="#" class="item m-text-thin">Email：junehuazh@163.com</a>
+                </div>
+            </div>
+            <!--五份，其他-->
+            <div class="five wide column">
+                <h4 class="ui inverted header m-text-thin m-text-spaced ">Blog</h4>
+                <p class="m-text-thin m-text-spaced m-opacity-mini">我的个人博客，分享最新技术、心灵鸡汤、希望对你有帮助</p>
+            </div>
+        </div>
+        <div class="ui inverted section divider"></div>
+        <p class="m-text-thin m-text-spaced m-opacity-tiny">Copyright © 2020 </p>
+    </div>
+</footer>
+
+<th:block th:fragment="script">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2/dist/jquery.min.js"></script>
+    <script src="../static/lib/prism/prism.js" th:src="@{/lib/prism/prism.js}"></script>
+    <script src="../static/lib/tocbot/tocbot.min.js" th:src="@{/lib/tocbot/tocbot.min.js}"></script>
+    <script src="https://cdn.jsdelivr.net/semantic-ui/2.2.4/semantic.min.js"></script>
+</th:block>
+
+
+</body>
+</html>
