@@ -150,4 +150,23 @@ public class DetailedBlog {
     public void setTags(List<Tag> tags) {
         this.tags = tags;
     }
+
+    @Override
+    public String toString() {
+        return "DetailedBlog{" +
+                "id=" + id +
+                ", firstPicture='" + firstPicture + '\'' +
+                ", flag='" + flag + '\'' +
+                ", title='" + title + '\'' +
+                ", content='" + content + '\'' +
+                ", views=" + views +
+                ", updateTime=" + updateTime +
+                ", commentabled=" + commentabled +
+                ", shareStatement=" + shareStatement +
+                ", appreciation=" + appreciation +
+                ", nickname='" + nickname + '\'' +
+                ", avatar='" + avatar + '\'' +
+                ", tags=" + tags +
+                '}';
+    }
 }

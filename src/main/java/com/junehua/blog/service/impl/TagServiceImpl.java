@@ -74,6 +74,7 @@ public class TagServiceImpl implements ITagService {
         return tagDao.getAllTag();
     }
 
+
     /**
      * 将text字符串转化为list集合，根据list集合查询数据库
      * @param text

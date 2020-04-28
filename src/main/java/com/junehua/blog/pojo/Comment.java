@@ -1,6 +1,9 @@
 package com.junehua.blog.pojo;
 
 
+import com.junehua.blog.dto.DetailedBlog;
+import org.springframework.beans.factory.annotation.Value;
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -11,7 +14,6 @@ public class Comment {
     private String email;
     private String content;
 
-    //头像
     private String avatar;
     private Date createTime;
 
@@ -22,6 +24,16 @@ public class Comment {
     //回复评论
     private List<Comment> replyComments = new ArrayList<>();
     private Comment parentComment;
+
+    private DetailedBlog blog;
+
+    public DetailedBlog getBlog() {
+        return blog;
+    }
+
+    public void setBlog(DetailedBlog blog) {
+        this.blog = blog;
+    }
 
     public Comment() {
     }
@@ -44,6 +56,7 @@ public class Comment {
                 ", parentNickname='" + parentNickname + '\'' +
                 ", replyComments=" + replyComments +
                 ", parentComment=" + parentComment +
+                ", blog=" + blog +
                 '}';
     }
 
