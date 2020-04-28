@@ -141,10 +141,13 @@
     </resultMap>
 
     <select id="getDetailedBlog" resultMap="detailedBlog">
-        select b.id bid,b.first_picture,b.flag,b.title,b.content,b.views,b.update_time,b.commentabled,b.share_statement,b.appreciation, u.nickname,u.avatar,
+       select b.id bid,b.first_picture,b.flag,b.title,b.content,b.views,b.update_time,b.commentabled,b.share_statement,b.appreciation, u.nickname,u.avatar,
         t.id tid ,t.name
-        from t_blog b,t_user u,t_tag t,t_blog_tags tb
-        where b.user_id = u.id and tb.blog_id = b.id and tb.tag_id = t.id and  b.id = #{id}
+         from
+          t_blog b left join t_user u on b.user_id = u.id
+           left join t_blog_tags tb on tb.blog_id = b.id
+            left join t_tag t on tb.tag_id = t.id
+             where b.id = #{id}
     </select>
 
     <select id="getByTypeId" resultMap="firstPageBlog">

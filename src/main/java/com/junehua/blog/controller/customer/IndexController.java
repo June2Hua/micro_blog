@@ -12,6 +12,7 @@ import com.junehua.blog.service.IBlogService;
 import com.junehua.blog.service.ICommentService;
 import com.junehua.blog.service.ITagService;
 import com.junehua.blog.service.ITypeService;
+import com.junehua.blog.service.impl.BlogServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -77,9 +78,18 @@ public class IndexController {
         //模糊查询
         List<FirstPageBlog> searchBlog = blogService.getSearchBlog(query);
         PageInfo<FirstPageBlog> pageInfo = new PageInfo<>(searchBlog);
+        //查询所有的type，右侧
+        List<Type> allType = typeService.getAllType();
+        //查询所有的tag，右侧
+        List<Tag> allTag = tagService.getAllTag();
+        //查询推荐的blog，右侧
+        List<RecommendBlog> recommendedBlog = blogService.getRecommendedBlog();
+        model.addAttribute("tags", allTag);
+        model.addAttribute("types", allType);
+        model.addAttribute("recommendedBlogs", recommendedBlog);
         model.addAttribute("pageInfo", pageInfo);
         model.addAttribute("query", query);
-        return "search";
+        return "index";
     }
 
 
@@ -93,10 +103,8 @@ public class IndexController {
     public String blog(@PathVariable Long id, Model model) {
         //查询该blog的具体信息
         DetailedBlog detailedBlog = blogService.getDetailedBlog(id);
-        System.out.println(detailedBlog);
         //查询博客的评价
         List<Comment> comments = commentService.listCommentByBlogId(id);
-        System.out.println(comments);
         model.addAttribute("comments", comments);
         model.addAttribute("blog", detailedBlog);
         return "blog";

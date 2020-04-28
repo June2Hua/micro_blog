@@ -25,7 +25,8 @@ public class CommentServiceImpl implements ICommentService {
     public List<Comment> listCommentByBlogId(Long blogId) {
         //查询该博客下的评论，查找出来的是对作者的评价，没有父节点的默认为-1
         List<Comment> comments = commentDao.findByBlogIdParentIdNull(blogId, Long.parseLong("-1"));
-        return eachComment(comments);
+        return comments;
+//        return eachComment(comments);
     }
 
     @Override
