@@ -2,6 +2,7 @@ package com.junehua.blog.dto;
 
 import com.junehua.blog.pojo.Tag;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -11,7 +12,7 @@ import java.util.List;
  * 浏览次数，评价，具体内容等等
  */
 
-public class DetailedBlog {
+public class DetailedBlog implements Serializable {
     private Long id;
     private String firstPicture;
     private String flag;

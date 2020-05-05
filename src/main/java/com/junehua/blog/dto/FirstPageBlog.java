@@ -1,9 +1,10 @@
 package com.junehua.blog.dto;
 
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class FirstPageBlog {
+public class FirstPageBlog implements Serializable {
     //Blog
     private Long id;
     private String title;

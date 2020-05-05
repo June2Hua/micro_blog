@@ -1,12 +1,13 @@
 package com.junehua.blog.dto;
 
 
+import java.io.Serializable;
 
 /**
  * 博客列表页进行多条件查询时所使用的类
  */
 
-public class SearchBlog {
+public class SearchBlog implements Serializable {
     private String title;
     private Long typeId;
     //推荐符号从前端传过来是String类型

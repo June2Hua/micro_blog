@@ -1,12 +1,13 @@
 package com.junehua.blog.pojo;
 
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
 
-public class Blog {
+public class Blog implements Serializable {
 
     private Long id;
     private String title;

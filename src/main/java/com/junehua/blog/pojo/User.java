@@ -1,10 +1,11 @@
 package com.junehua.blog.pojo;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class User {
+public class User implements Serializable {
     private Long id;
     private String nickname;
     private String username;

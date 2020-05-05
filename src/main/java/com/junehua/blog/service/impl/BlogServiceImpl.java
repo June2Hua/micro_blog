@@ -9,6 +9,7 @@ import com.junehua.blog.util.MarkdownUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -103,6 +104,7 @@ public class BlogServiceImpl implements IBlogService {
         return blogDao.getSearchBlog(query);
     }
 
+    @Cacheable(cacheNames = "blog",keyGenerator = "myKeyGenerator")
     @Override
     public DetailedBlog getDetailedBlog(Long id) {
         DetailedBlog detailedBlog = blogDao.getDetailedBlog(id);

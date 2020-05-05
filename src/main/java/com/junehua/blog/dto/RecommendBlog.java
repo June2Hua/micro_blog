@@ -1,9 +1,11 @@
 package com.junehua.blog.dto;
 
+import java.io.Serializable;
+
 /**
  * 是否推荐的博客
  */
-public class RecommendBlog {
+public class RecommendBlog implements Serializable {
 
     private Long id;
     private String title;

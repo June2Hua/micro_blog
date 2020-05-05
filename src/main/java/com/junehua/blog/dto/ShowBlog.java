@@ -1,5 +1,6 @@
 package com.junehua.blog.dto;
 
+import java.io.Serializable;
 import java.util.Date;
 
 
@@ -7,7 +8,7 @@ import java.util.Date;
  * 用于展示修改博客的类
  */
 
-public class ShowBlog {
+public class ShowBlog implements Serializable {
 
     private Long id;
     private boolean published;

@@ -2,6 +2,7 @@ package com.junehua.blog.dto;
 
 import com.junehua.blog.pojo.Type;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
@@ -9,7 +10,7 @@ import java.util.Date;
  * id，标题，更新时间，
  */
 
-public class BlogQuery {
+public class BlogQuery implements Serializable {
     private Long id;
     private String title;
     private Date updateTime;

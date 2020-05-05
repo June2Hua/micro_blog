@@ -4,11 +4,12 @@ package com.junehua.blog.pojo;
 import com.junehua.blog.dto.DetailedBlog;
 import org.springframework.beans.factory.annotation.Value;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class Comment {
+public class Comment implements Serializable {
     private Long id;
     private String nickname;
     private String email;

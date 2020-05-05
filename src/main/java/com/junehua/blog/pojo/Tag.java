@@ -1,9 +1,10 @@
 package com.junehua.blog.pojo;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Tag {
+public class Tag implements Serializable {
     private Long id;
     private String name;
 
